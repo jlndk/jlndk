@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jlndk/jlndk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Jonas Lindenskov Nielsen.
 
-Here are some ideas to get you started:
+I’m a developer from Denmark, with a special interest in full-stack web development.
+I'm the lead software engineer of [ZervMe](https://zervme.com), Developer at [FirmNav](https://firmnav.com) and a software development student at [The IT University of Copenhagen](https://en.itu.dk/).
+I’ve been developing applications for most of my life, and love to learn new stuff!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me online
+
+* Twitter: [jlndk](https://twitter.com/jlndk)
+* Website: [lindenskov.dev](https://lindenskov.dev/?github)
+* LinkedIn: [jlndk](https://www.linkedin.com/in/jlndk/)

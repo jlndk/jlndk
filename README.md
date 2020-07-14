@@ -9,5 +9,5 @@ I’ve been developing applications for most of my life, and love to learn new s
 ## Find me online
 
 * Twitter: [jlndk](https://twitter.com/jlndk)
-* Website: [lindenskov.dev](https://lindenskov.dev/?github)
+* Website: [https://lindenskov.dev](https://lindenskov.dev/?github)
 * LinkedIn: [jlndk](https://www.linkedin.com/in/jlndk/)

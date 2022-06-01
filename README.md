@@ -2,9 +2,9 @@
 
 My Name is Jonas Lindenskov Nielsen.
 
-I’m a software developer from Denmark, with a specialization in full-stack web development.
-I'm a tech lead at [FirmNav](https://firmnav.com) and previously student of software development at [The IT University of Copenhagen](https://en.itu.dk/).
-I’ve been developing applications for most of my life, and love to learn new stuff!
+I’m a software developer from Denmark, with a specialization in full-stack web developement and DevOps.
+I'm currenly working as tech lead at [FirmNav](https://firmnav.com), where I have the main responsibility for the CI/CD pipeline and infrastructure which power their platform. 
+I’ve been creating applications for the most of my life, and love tinkering with all kinds of projects!
 
 ## 🌍 Find me online
 

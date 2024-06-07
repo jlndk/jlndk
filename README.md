@@ -3,7 +3,7 @@
 My Name is Jonas Lindenskov Nielsen.
 
 I’m a software developer from Denmark, with a specialization in full-stack web developement and DevOps.
-I'm currenly working as tech lead at [Unhaze.ai](https://unhaze.ai), where I have the main responsibility for the CI/CD pipeline and infrastructure which power their platform. 
+I'm currenly working as a Software Engineer at [Criipto](https://criipto.com), where help keeping interactions on the internet safe and secure!
 I’ve been creating applications for the most of my life, and love tinkering with all kinds of projects!
 
 ## 🌍 Find me online
